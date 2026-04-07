@@ -1,5 +1,5 @@
 # liboresmod
-Resolution hook for Quake II engine tested with Soldier of Fortune linux version. This will automatically set gl_mode 9 mode (1600x1200) to desktop resolution on Linux using X server. 
+Resolution hook for Soldier of Fortune linux version. This will automatically set gl_mode 9 mode (1600x1200) to desktop resolution on Linux using X server. 
 
 Apply the hook for a game using:
 
