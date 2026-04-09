@@ -1,8 +1,7 @@
-/* SPDX-License-Identifier: MIT */
 /*
- * resolution hook for Quake II engine
+ * Resolution hook for Soldier of Fortune linux version for allowing higher in game resolution
  *
- * Copyright 2023 Imam Hossain
+ * Copyright (C) 2023 Imam Hossain
  */
 
 #define _GNU_SOURCE
